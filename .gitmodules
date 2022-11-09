@@ -1,0 +1,3 @@
+[submodule "Angular-submodule-of-.Net-API"]
+	path = Angular-submodule-of-.Net-API
+	url = https://github.com/m7mdmajdy/Angular-submodule-of-.Net-API.git
